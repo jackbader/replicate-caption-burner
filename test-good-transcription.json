@@ -1,0 +1,120 @@
+{
+  "text": " Like that. She's a doll, isn't she? I didn't know you had that much rizzzz. No cap. What? Who told her that?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.88,
+      "text": " Like that.",
+      "tokens": [50365, 1743, 300, 13, 50415],
+      "temperature": 0.0,
+      "avg_logprob": -0.3807975345187717,
+      "compression_ratio": 1.1030927835051547,
+      "no_speech_prob": 0.05540803447365761,
+      "confidence": 0.56,
+      "words": [
+        { "text": "Like", "start": 0.0, "end": 0.7, "confidence": 0.314 },
+        { "text": "that.", "start": 0.7, "end": 0.88, "confidence": 0.996 }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.16,
+      "end": 6.01,
+      "text": " She's a doll, isn't she?",
+      "tokens": [50571, 1240, 311, 257, 2722, 11, 1943, 380, 750, 30, 50680],
+      "temperature": 0.0,
+      "avg_logprob": -0.3807975345187717,
+      "compression_ratio": 1.1030927835051547,
+      "no_speech_prob": 0.05540803447365761,
+      "confidence": 0.981,
+      "words": [
+        { "text": "She's", "start": 4.16, "end": 4.54, "confidence": 0.992 },
+        { "text": "a", "start": 4.54, "end": 4.72, "confidence": 0.996 },
+        { "text": "doll,", "start": 4.72, "end": 5.26, "confidence": 0.97 },
+        { "text": "isn't", "start": 5.48, "end": 5.94, "confidence": 0.958 },
+        { "text": "she?", "start": 5.94, "end": 6.01, "confidence": 0.999 }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.01,
+      "end": 8.74,
+      "text": " I didn't know you had that much rizzzz.",
+      "tokens": [
+        50687, 286, 994, 380, 458, 291, 632, 300, 709, 15043, 13, 50813
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3807975345187717,
+      "compression_ratio": 1.1030927835051547,
+      "no_speech_prob": 0.05540803447365761,
+      "confidence": 0.934,
+      "words": [
+        { "text": "I", "start": 6.01, "end": 6.52, "confidence": 1.0 },
+        { "text": "didn't", "start": 6.52, "end": 7.02, "confidence": 1.0 },
+        { "text": "know", "start": 7.02, "end": 7.2, "confidence": 1.0 },
+        { "text": "you", "start": 7.2, "end": 7.32, "confidence": 0.989 },
+        { "text": "had", "start": 7.32, "end": 7.66, "confidence": 0.999 },
+        { "text": "that", "start": 7.66, "end": 7.74, "confidence": 0.979 },
+        { "text": "much", "start": 7.74, "end": 8.1, "confidence": 0.995 },
+        { "text": "rizzzz.", "start": 8.1, "end": 8.74, "confidence": 0.561 }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.8,
+      "end": 9.52,
+      "text": " No cap.",
+      "tokens": [50821, 883, 1410, 13, 50859],
+      "temperature": 0.0,
+      "avg_logprob": -0.3807975345187717,
+      "compression_ratio": 1.1030927835051547,
+      "no_speech_prob": 0.05540803447365761,
+      "confidence": 0.878,
+      "words": [
+        { "text": "No", "start": 8.8, "end": 9.18, "confidence": 0.992 },
+        { "text": "cap.", "start": 9.18, "end": 9.52, "confidence": 0.777 }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.4,
+      "end": 10.64,
+      "text": " What?",
+      "tokens": [50873, 708, 30, 50907],
+      "temperature": 0.0,
+      "avg_logprob": -0.3807975345187717,
+      "compression_ratio": 1.1030927835051547,
+      "no_speech_prob": 0.05540803447365761,
+      "confidence": 1.0,
+      "words": [
+        { "text": "What?", "start": 10.4, "end": 10.64, "confidence": 1.0 }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 12.26,
+      "end": 13.18,
+      "text": " Who told her that?",
+      "tokens": [50964, 2102, 1907, 720, 300, 30, 51033],
+      "temperature": 0.0,
+      "avg_logprob": -0.3807975345187717,
+      "compression_ratio": 1.1030927835051547,
+      "no_speech_prob": 0.05540803447365761,
+      "confidence": 0.999,
+      "words": [
+        { "text": "Who", "start": 12.26, "end": 12.46, "confidence": 1.0 },
+        { "text": "told", "start": 12.46, "end": 12.72, "confidence": 1.0 },
+        { "text": "her", "start": 12.72, "end": 13.0, "confidence": 0.998 },
+        { "text": "that?", "start": 13.0, "end": 13.18, "confidence": 1.0 }
+      ]
+    }
+  ],
+  "language": "en"
+}
